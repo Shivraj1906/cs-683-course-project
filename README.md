@@ -1,1 +1,1 @@
-# cs-683-course-project
+# Adaptive Treelet-Based Prefetching for Ray Tracing Workloads on GPUs
